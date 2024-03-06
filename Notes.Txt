@@ -1,0 +1,6 @@
+Good short notes to go through.
+
+Day 1:
+Strings are enclosed with double quotes.
+To prints 2 srings on two separate lines use \n.
+Concatenating strings use + sign; e.g. "Hello" + " " +"Name"
